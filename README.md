@@ -1,4 +1,4 @@
-![PyBaMM](image.png)
+![image](https://github.com/user-attachments/assets/91939ec9-7ade-4d8d-a817-cef9d9284779)
 
 # LiSimPack: A Python Library for Battery Pack Simulations with PyBaMM
 
